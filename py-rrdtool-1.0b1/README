@@ -1,0 +1,23 @@
+Python-RRDtool 1.0b1
+--------------------
+
+The python-rrdtool provides a interface to rrdtool, the wonderful
+graphing and logging utility. This wrapper implementation has
+worked from the scratch (without SWIG), and it's under LGPL.
+
+This module have not documented yet. Please refer pydoc.
+
+
+Project
+-------
+
+Homepage: http://sourceforge.net/projects/py-rrdtool/
+
+
+Author
+------
+
+Hye-Shik Chang <perky@FreeBSD.org>
+
+Any comments, suggestions, and/or patches are very welcome.
+Thank you for using py-rrdtool!

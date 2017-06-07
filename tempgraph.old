@@ -1,0 +1,1 @@
+rrdtool graph lampo.png --end now --start end-10h DEF:mytemp=tempbase.rrd:in-temp:AVERAGE DEF:outemp=tempbase.rrd:out-temp:AVERAGE LINE2:mytemp#FF0000 --width 800 --height 600
